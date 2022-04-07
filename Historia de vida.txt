@@ -1,3 +1,5 @@
-Mi nombre es jefferson Sanchez
-Actualmente estoy en la universidad
-me dedico a jugar y aveces a tratar de entender el desarrollo web
+Mi nombre es jefferson Heriberto Perez Sanchez\
+Tengo 20 años de edad Naci el 07 de Nov de 2000
+Actualmente estoy en la universidad Francisco Gavidia
+me dedico a jugar video juegos y aveces a tratar de entender el desarrollo web
+me quiero especializar en Js,html y css pero aun nisiquiera he visto Js 
