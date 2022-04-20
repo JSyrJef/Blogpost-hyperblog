@@ -21,6 +21,11 @@ body
     padding: 0.5em;
     text-align: center;
 }
+#cabecera #logo
+{
+    width: 60px;
+    vertical-align: middle;
+}
 
 #cabecera #tagline
 {
@@ -46,5 +51,6 @@ body
 }
 #post
 {
+    background: black;
     padding: 1em;
 }
