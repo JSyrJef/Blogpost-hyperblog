@@ -10,6 +10,6 @@ creacion de hyperblog en el curso de git&amp;github
 * Trucos muy locos del profesor
 * Las personalidades múltiples de Jeffer
 * Creado por el incrible Jeffer Team
-
+* Incluye ejemplos en Win,Lnx y Mac
 
 Y como un amable recordatorio: **Este readme.md es un chiste**.  Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
